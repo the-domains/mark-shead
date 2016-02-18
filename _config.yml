@@ -1,6 +1,6 @@
 name: Mark Shead
 favicon: null
-layout_spectrum: 0.6715845093131065
+layout_spectrum: 0.24403
 typography_spectrum: 0.5954636528622359
 title: Mark Shead
 cta:
@@ -22,7 +22,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.009267510380595922
+  brandStrength: 0.5
   lightness: 0.41212282446213067
   saturation: 0.4771966945845634
   rhythmicContrast: 0.7732449374161661
