@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mark Shead]]></title>
         <description><![CDATA[Mark Shead]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mark-shead/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 00:51:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 02:11:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mark-shead/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57cb88ac-f7e3-4fc3-808c-6c531d7276ca.jpg">]]></description>
-            <link>undefinede244115e-b8b3-4f22-a5cb-8a4adcb332f6/index.html</link>
+            <description><![CDATA[<p>Mark Shead helps businesses create better technology systems through software engineering, Agile coaching, and process improvements.</p>]]></description>
+            <link>https://thegrid.ai/mark-shead/e244115e-b8b3-4f22-a5cb-8a4adcb332f6/index.html</link>
             <guid isPermaLink="false">e244115e-b8b3-4f22-a5cb-8a4adcb332f6</guid>
-            <pubDate>Thu, 18 Feb 2016 00:50:54 GMT</pubDate>
+            <pubDate>Thu, 18 Feb 2016 02:11:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
