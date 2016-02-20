@@ -1,20 +1,4 @@
-name: Mark Shead
-favicon: null
-layout_spectrum: 0.76655
-typography_spectrum: 0.5954636528622359
-title: Mark Shead
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#17BEBB'
@@ -24,6 +8,11 @@ color:
     - '#FAD8D6'
   brandStrength: 0.25
   lightness: 0.41212282446213067
-  saturation: 0.4771966945845634
   rhythmicContrast: 0.5
+  saturation: 0.4771966945845634
+cta: {}
+layout_spectrum: 0.053453
+name: Mark Shead
+opengraph: {}
 purpose: []
+typography_spectrum: 0.5954636528622359
