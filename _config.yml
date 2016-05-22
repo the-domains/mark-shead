@@ -1,6 +1,6 @@
 name: Mark Shead
 favicon: null
-layout_spectrum: 0.25048
+layout_spectrum: 0.49668
 typography_spectrum: 0.5954636528622359
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
